@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Caio Paranaiba </h1>
+<h3 align="center">Passionate about Data Science applied to Medicine. </h3>
+<p align="center">
+<br>
+<text>
+I'm a Physics in Medicine undergraduate student at the Federal University of Goiás (UFG), engaged in data science applied to healthcare. I'm part of the Applied Artificial Intelligence in Medical Imaging Research Group at the Institute of Physics at UFG, where I am a CNPq scholarship holder, working on medical image segmentation projects. My goal is to apply advanced machine learning techniques to contribute to significant advancements in disease diagnosis and treatment, aiming to enhance people's quality of life.</text>
+</p>
+<br>
 
-Undergrad in Medical Physics at UFG, AI researcher for medical images. Current focus: image segmentation. Passionate about data science in healthcare.
+
 
 - 🔭 I’m currently working on **college projects** and **medical image segmentation projects**
-
+  
+- 🌱 I’m currently learning **Python** and **Machine Learning**
+- 💬 Ask me about **Python**, **Physics** and **Data Science**
 - 📫 How to reach me: **caioparanaiba@discente.ufg.br**
-
 - 📄 Explore my academic experiences: **http://lattes.cnpq.br/3091928356183525**
-
 - ⚡ Fun fact: **enthusiastic about squash**
 
 ##
