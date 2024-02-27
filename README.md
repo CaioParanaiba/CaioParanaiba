@@ -45,6 +45,10 @@ I'm a Physics in Medicine undergraduate student at the Federal University of Goi
 </p>
 </div>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CaioParanaiba&show_icons=true&theme=outrun" alt="CaioParanaiba" />
+
+
+
 <!--
 **CaioParanaiba/CaioParanaiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
