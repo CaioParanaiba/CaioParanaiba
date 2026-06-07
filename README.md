@@ -34,16 +34,14 @@ I'm a Computer Science student at <strong>PUC Goiás</strong>, focusing on <stro
 ##
 
 <h3 align="center">Find me on:</h3>
-<div display=inline">
-<p align="center">
-<a href="https://github.com/CaioParanaiba"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/caio-paranaiba-4082b6226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/caio_paranaiba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
+<div align="center">
+  <a href="https://github.com/CaioParanaiba"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/caio-paranaiba-4082b6226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/caio_paranaiba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioParanaiba&layout=compact&theme=outrun" alt="CaioParanaiba Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioParanaiba&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
+</div>
