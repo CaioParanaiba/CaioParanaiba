@@ -1,47 +1,44 @@
-<h1 align="center">Hi 👋, I'm Caio Paranaiba </h1>
-<h3 align="center">Computer Science Student and Competitive Programmer</h3>
+<h1 align="center">Caio Paranaiba</h1>
+<p align="center">Computer Science @ PUC Goiás · Competitive Programmer</p>
 
 <p align="center">
-<br>
-<text>
-I'm a Computer Science student at <strong>PUC Goiás</strong>, focusing on <strong>C/C++</strong> and <strong>Competitive Programming</strong>. As a 'maratonista' (competitive programmer), I am dedicated to solving complex problems efficiently, honing my skills in algorithms and data structures. My transition from <strong>Physics</strong> to computing reflects my passion for logical challenges and efficient software development.
-</text>
+<a href="https://codeforces.com/profile/CaioParanaiba"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaioParanaiba%2FCaioParanaiba%2Fmain%2Fcodeforces.json&style=flat-square" alt="Codeforces" /></a>
+<a href="https://www.linkedin.com/in/caio-paranaiba-4082b6226/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="http://lattes.cnpq.br/3091928356183525"><img src="https://img.shields.io/badge/Lattes-1f3a5f?style=flat-square&logo=bookstack&logoColor=white" alt="Lattes" /></a>
+<a href="mailto:caiofbp@gmail.com"><img src="https://img.shields.io/badge/Email-caiofbp%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<br>
 
-- 🔭 Currently focused on **university projects** and **competitive programming problems**.
-- 🌱 Honing my skills in **C++**, **Algorithms**, and **Data Structures**.
-- 💬 Ask me about **C/C++**, **Competitive Programming**, and **Problem Solving**.
-- 📫 How to reach me: **caiofbp@gmail.com**
-- 📄 Explore my academic background: **http://lattes.cnpq.br/3091928356183525**
-- ⚡ Fun fact: **RPG game master**
-
-##
-
-<h3 align="center">Languages and Tools:</h3>
-<div display=inline">
 <p align="center">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c,cpp,go,git,neovim,linux,arch" alt="Stack" />
 </p>
-</div>
 
-##
+I came to Computer Science from Physics, and competitive programming is what made it all make sense: a problem, a time limit, a complexity analysis. I like building my own tools, tweaking my Arch setup, and on weekends I'm the game master of an RPG table.
 
-<h3 align="center">Find me on:</h3>
-<div align="center">
-  <a href="https://github.com/CaioParanaiba"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/caio-paranaiba-4082b6226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/caio_paranaiba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CaioParanaiba/maratona-lib">maratona-lib</a></b><br>
+My contest library and printed notebook.<br>
+<sub>C++ · competitive programming</sub>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CaioParanaiba/problem-solving">problem-solving</a></b><br>
+Accepted solutions from CF, AtCoder and Beecrowd.<br>
+<sub>C++ · notes in <a href="https://github.com/CaioParanaiba/CompetitiveNotes">CompetitiveNotes</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CaioParanaiba/neivi">neivi</a></b><br>
+Tasks and habits in the terminal, on todo.txt.<br>
+<sub>Go · personal project</sub>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CaioParanaiba/persistent-scoreboard">persistent-scoreboard</a></b><br>
+ICPC scoreboard engine with binary-file storage.<br>
+<sub>C · university project</sub>
+</td>
+</tr>
+</table>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioParanaiba&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
-</div>
+<p align="center"><img src="top-langs.svg" alt="Most used languages" /></p>
