@@ -2,6 +2,6 @@
 <style>.h{font:600 12px 'Segoe UI', Ubuntu, Sans-Serif;fill:#8b949e;letter-spacing:2px}.t{font:400 14px 'Segoe UI', Ubuntu, Sans-Serif;fill:#8b949e}</style>
 <text x="0" y="14" class="h">MOST USED LANGUAGES</text>
 <clipPath id="c"><rect x="0" y="0" width="720" height="10" rx="5"/></clipPath>
-<g transform="translate(0,28)" clip-path="url(#c)"><rect x="0.00" y="0" width="495.68" height="10" fill="#f34b7d"/><rect x="495.18" y="0" width="166.30" height="10" fill="#A8B9CC"/><rect x="660.98" y="0" width="53.71" height="10" fill="#00ADD8"/></g>
-<circle cx="5" cy="61" r="5" fill="#f34b7d"/><text x="15" y="66" class="t">C++ 68.8%</text><circle cx="107" cy="61" r="5" fill="#A8B9CC"/><text x="117" y="66" class="t">C 23.0%</text><circle cx="193" cy="61" r="5" fill="#00ADD8"/><text x="203" y="66" class="t">Go 7.4%</text>
+<g transform="translate(0,28)" clip-path="url(#c)"><rect x="0.00" y="0" width="383.44" height="10" fill="#f34b7d"/><rect x="382.94" y="0" width="204.85" height="10" fill="#00ADD8"/><rect x="587.29" y="0" width="128.72" height="10" fill="#A8B9CC"/></g>
+<circle cx="5" cy="61" r="5" fill="#f34b7d"/><text x="15" y="66" class="t">C++ 53.2%</text><circle cx="107" cy="61" r="5" fill="#00ADD8"/><text x="117" y="66" class="t">Go 28.4%</text><circle cx="201" cy="61" r="5" fill="#A8B9CC"/><text x="211" y="66" class="t">C 17.8%</text>
 </svg>
